@@ -1,0 +1,4 @@
+{
+  "mongoURI":"mongodb+srv://Himanshu:HimanshuDB@contactkeeper-nnewt.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"dog"
+}
